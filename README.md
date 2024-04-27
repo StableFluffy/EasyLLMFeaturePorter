@@ -7,3 +7,6 @@
 3. Add diff * activation ratio to finetuned model.
 
 Done !
+
+### 
+Thanks to kuotient for letting me know issue on initial commit. 
