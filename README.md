@@ -8,5 +8,8 @@
 
 Done !
 
+### Explanation
+[Korean](https://arca.live/b/alpaca/104827551)
+
 ### 
 Thanks to kuotient for letting me know issue on initial commit. 
