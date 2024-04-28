@@ -1,4 +1,5 @@
-# EasyExpansion
+# EasyLLMFeaturePorter
+
 1-Click is all you need.
 
 ## Methodology
