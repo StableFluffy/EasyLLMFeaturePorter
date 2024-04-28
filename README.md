@@ -12,6 +12,8 @@ Done !
 ### Explanation
 [Korean](https://arca.live/b/alpaca/104827551)
 
+[English](https://huggingface.co/blog/maywell/llm-feature-transfer)
+
 ### Special Thanks
 
 Thanks to kuotient for letting me know issue on initial commit. [Huggingface](https://huggingface.co/kuotient)
